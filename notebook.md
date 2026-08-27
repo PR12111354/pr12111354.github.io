@@ -30,11 +30,7 @@
 ## Headings
 
 
-- `#` for the notebook title (use once at the top).  
-
-- `##` for each day or major topic.  
-
-- `###` for subsections (like "Notes", "Practice", "Reflections").  
+ 
 
 
 # My Coding Notebook
