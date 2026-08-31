@@ -11,7 +11,7 @@
 - [Text Formatting](#text-formatting)
 ### BJC Labs
 ### Lab 1 Click Alonzo
-https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&ProjectName=Princes%20Project
+[Click Alonzo](https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&ProjectName=Princes%20Project)
 
 
 ## Vocab
