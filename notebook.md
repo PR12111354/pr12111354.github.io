@@ -14,6 +14,17 @@
 
 ## Vocab
 <details>
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+<details>
+
   <summary>algorithm</summary>
     Step-by-step instructions. 
   
@@ -32,6 +43,25 @@
    Detect an event
 
     Example: Using events to control a program
+  </details>
+  
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
+
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+## On the AP Exam
+<img width="1006" height="120" alt="image" src="https://github.com/user-attachments/assets/0e70940a-7625-4761-a09f-4dc0b3011c35" />
+>
+  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+  
  ## Code Examples
 
   ### Print Statements
