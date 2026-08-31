@@ -5,4 +5,5 @@ Navigation
 [Notebook](notebook.md)
 [Home](index.md)
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/)  
-![Markdown Logo]([https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg](https://github.com/user-attachments/assets/7e00811f-4179-4ac8-a2ae-49089396f725))
+<img width="120" height="119" alt="image" src="https://github.com/user-attachments/assets/e36508ff-c445-4dfc-8034-4f1df219ec18" />
+>
