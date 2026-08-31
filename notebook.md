@@ -28,7 +28,7 @@
 </details>
 
  ## Code Examples
- <details>
+
   ### Print Statements
   ```java
   public class Hello {
