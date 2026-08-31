@@ -27,6 +27,11 @@
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
 </details>
 
+<details>
+  <summary>event-driven programming</summary>
+   Detect an event
+
+    Example: Using events to control a program
  ## Code Examples
 
   ### Print Statements
