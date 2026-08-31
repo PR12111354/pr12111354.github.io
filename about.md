@@ -4,3 +4,5 @@ I am currently a sophomore student at Las Vegas Highschool and I enjoy to play v
 Navigation
 [Notebook](notebook.md)
 [Home](index.md)
+![Markdown Logo](<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/49b9f80e-0c90-4cfa-a482-06f704898b1c" />
+)
