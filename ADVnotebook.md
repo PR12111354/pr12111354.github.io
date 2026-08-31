@@ -1,6 +1,6 @@
 ## Table of Contents
-[-BJC Labs](#bjc-labs)
-[Lab 1 Click Alonzo](lab-1-click-alonzo).
+- [-BJC Labs](#bjc-labs)
+- [Lab 1 Click Alonzo](lab-1-click-alonzo).
 - [Vocab](#vocab)
 - [Important Blocks](#important-blocks)
 - [On The AP Exam](#on-the-ap-exam).
