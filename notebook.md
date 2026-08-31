@@ -1,15 +1,14 @@
 ## Table of Contents
 [-BJC Labs](#bjc-labs)
 [Lab 1 Click Alonzo](lab-1-click-alonzo).
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-- [Headings](#headings).
-- [Text Formatting](#text-formatting)
 - [Vocab](#vocab)
-- [Code Examples](#code-examples).
-- [Print Statements](#print-statements)
 - [Important Blocks](#important-blocks)
 - [On The AP Exam](#on-the-ap-exam).
 - [Code Examples](#code-examples).
+- [Print Statements](#print-statements)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+- [Headings](#headings).
+- [Text Formatting](#text-formatting)
 ### BJC Labs
 ### Lab 1 Click Alonzo
 https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&ProjectName=Princes%20Project
