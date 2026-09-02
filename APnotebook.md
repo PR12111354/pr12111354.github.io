@@ -84,7 +84,7 @@ https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&Projec
   <summary>java-method</summary>
 A block of code inside a class that performs a specific task when it's called.
 
-     Example:
+     Example: Like classes, everything inside the curly braces { } is considered inside the method.
 
   </details>
 
