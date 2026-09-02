@@ -46,7 +46,55 @@ https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&Projec
 
     Example: Using events to control a program
   </details>
+
+  <details>
+  <summary>java</summary>
+  A programming language.
+    
+    Example: Java and JavaScript are completely different languages.
+
   
+
+   </details>
+   
+   <details>
+  <summary>object-oriented-language</summary>
+  A way of writing code where you group related data and actions into reusable "objects."
+     
+    Example: Kind of like organizing tools into labeled boxes.
+
+
+ </details>
+
+   <details>
+  <summary>procedural-languagese</summary>
+  Focus on procedures that operate on data in a linear top-down sequence.
+
+    Example: Procedures are also known as functions
+  </details>
+
+  <details>
+  <summary>java-class</summary>
+ A blueprint that defines the structure and behavior of objects you can create from it.
+
+    Example: Structure and data is data and actions 
+  </details>
+
+   <details>
+  <summary>java-method</summary>
+A block of code inside a class that performs a specific task when it's called.
+
+     Example:
+
+  </details>
+
+<details>
+  <summary>console</summary>
+The area of a computer that notes from a program can be printed to. Kind of like a notebook.
+
+    Example: On Skill Struck (python, javascript, and java) this is the area that your code is printed to 
+  </details>
+    
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
