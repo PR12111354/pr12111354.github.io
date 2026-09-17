@@ -142,6 +142,56 @@ A combination of values, variables, and operators that evaluates to a value.
     Example: 	i - 3
 </details>
 
+<details>
+  <summary>condition</summary>
+An expression that evaluates to either true or false.
+
+    Example: x < 3
+</details>
+
+<details>
+  <summary>boolean</summary>
+A value that is either true or false.
+
+    Example: The result of x ≤ 1
+</details>
+
+<details>
+  <summary>relational-operator</summary>
+Compares two values and produces a Boolean result.
+
+    Example: <, >, ≤, ≥, =, ≠
+</details>
+
+<details>
+  <summary>procedure</summary>
+A named group of programming instructions that performs a task.
+
+    Example: PROCEDURE FancyMove(x)
+</details>
+
+<details>
+  <summary>procedure-call</summary>
+Tells the program to execute a procedure.
+
+	Example: PROCEDUREFancyMove(i)
+</details>
+
+<details>
+  <summary>parameter</summary>
+A variable in a procedure definition that receives a value when the procedure is called.
+
+	Example: x in PROCEDURE FancyMove(x)
+</details>
+
+<details>
+  <summary>argument</summary>
+The actual value or variable supplied to a procedure when the procedure is called.
+
+	Example: i in FancyMove(i)
+</details>
+
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
