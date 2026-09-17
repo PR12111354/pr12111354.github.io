@@ -140,7 +140,8 @@ A named value that can change while a program runs
 A combination of values, variables, and operators that evaluates to a value.
 
     Example: 	i - 3
-    
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
