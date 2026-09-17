@@ -94,6 +94,52 @@ The area of a computer that notes from a program can be printed to. Kind of like
 
     Example: On Skill Struck (python, javascript, and java) this is the area that your code is printed to 
   </details>
+
+   <details>
+<summary>iteration</summary>
+
+**Definition:** Repeating a set of instructions in an algorithm.
+
+**In My Own Words:** Iteration is when the program does the same group of steps multiple times instead of writing those steps over and over.
+
+**Example:**
+```
+REPEAT 3 TIMES
+{
+    MOVE_FORWARD()
+}
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+<details>
+  <summary>selection-iteration</summary>
+Uses a condition to determine which part of an algorithm is executed
+
+    Example: IF (x < 3)
+  </details>
+
+  <details>
+  <summary>variable</summary>
+A named value that can change while a program runs
+
+    Example: i in i ← 3
+  </details>
+
+   <details>
+  <summary>assignment</summary>
+	Stores a value in a variable.
+
+    Example: 	i ← 3
+  </details>
+
+  <details>
+  <summary>expression</summary>
+A combination of values, variables, and operators that evaluates to a value.
+
+    Example: 	i - 3
     
 ## Important Blocks
 <details>
