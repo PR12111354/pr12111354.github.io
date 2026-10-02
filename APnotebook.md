@@ -191,6 +191,27 @@ The actual value or variable supplied to a procedure when the procedure is calle
 	Example: i in FancyMove(i)
 </details>
 
+<details>
+  <summary>flow-of-control</summary>
+The order in which statements in a program are executed.
+
+	Example: An IF determines which branch runs.
+</details>
+
+<details>
+  <summary>nested-selection</summary>
+A selection statement contained inside another selection statement.
+
+	Example: An IF inside an ELSE block..
+</details>
+
+<details>
+  <summary>nested-iteration</summary>
+An iteration statement contained inside another iteration statement.
+
+	Example: REPEAT i TIMES inside REPEAT 3 TIMES
+</details>
+
 
 ## Important Blocks
 <details>
