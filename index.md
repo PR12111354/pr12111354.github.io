@@ -1,7 +1,7 @@
 Hello! Welcome to My Portfolio, my name is PR
 
 - Project 1: Description
-- Project 2: Description
+- [Project 2: Automated Railroad Crossing](project-2-railroad-crossing.md)
 
  About Me
 
