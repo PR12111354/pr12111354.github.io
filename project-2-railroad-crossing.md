@@ -18,4 +18,7 @@ https://github.com/user-attachments/assets/65a9cdb2-447c-434b-9415-370f56400c67
 
 <img width="1364" height="642" alt="Screenshot 2026-11-16 2 06 48 PM" src="https://github.com/user-attachments/assets/38d42040-49c9-468d-ac66-63b7f06ab871" />
 
+--------
+## Testing and Debugging
+Throughout my coding process I faced numerous issues such as setting up the position servo properly and connecting the lights. Although I believe my biggest issue was with syncing my data table with the train, I struggled with how the hours, minutes, and seconds were displayed which caused me to make several changes in my code. After enough test runs, I fixed my code and it was ready.
 
