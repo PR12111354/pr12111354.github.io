@@ -1,4 +1,5 @@
 ## Table of Contents
+-[Extension Project](#extension-project)
 - [-BJC Labs](#bjc-labs)
 - [Lab 1 Click Alonzo](lab-1-click-alonzo).
 - [Vocab](#vocab)
@@ -9,6 +10,9 @@
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 - [Headings](#headings).
 - [Text Formatting](#text-formatting)
+### Extension Project
+[Extension Project](extension-project.md)
+  
 ### BJC Labs
 ### Lab 1 Click Alonzo
 [Click Alonzo](https://snap.berkeley.edu/snap/snap.html#present:Username=prince%20royall&ProjectName=Princes%20Project)
